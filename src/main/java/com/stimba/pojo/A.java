@@ -41,5 +41,6 @@ public class A {
     }
     void pc() {
 //        pc
+        System.out.println("if KKK?");
     }
 }
