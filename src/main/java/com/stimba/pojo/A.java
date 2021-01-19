@@ -35,6 +35,6 @@ public class A {
     }
     void mac() {
 //        mac
-        System.out.println("ob branch");
+        System.out.println("ob branch in time");
     }
 }
