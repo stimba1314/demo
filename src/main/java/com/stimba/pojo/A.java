@@ -12,7 +12,7 @@ public class A {
     void test() {
         System.out.println("test");
     }
-
+//  this is the wrong function
     void MacChange() {
         System.out.println("MAC CHANGE!!!");
     }
@@ -24,6 +24,9 @@ public class A {
     void mactao() {
 //        mac foo
     }
+    void ob() {
+//        ob branch
+    }
     void macnot() {
 //        machao
     }
@@ -32,7 +35,9 @@ public class A {
     }
     void mac() {
 //        mac
-        System.out.println("mac in system");
+        System.out.println("ob branch in time");
+        System.out.println("BBQ");
+        System.out.println("test");
     }
     void pc() {
 //        pc
