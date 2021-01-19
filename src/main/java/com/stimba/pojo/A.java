@@ -32,6 +32,7 @@ public class A {
     }
     void mac() {
 //        mac
+        System.out.println("mac in system");
     }
     void pc() {
 //        pc
