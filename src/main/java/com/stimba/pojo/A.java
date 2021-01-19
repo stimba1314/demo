@@ -12,7 +12,7 @@ public class A {
     void test() {
         System.out.println("test");
     }
-//  this is the wrong function
+//  this is the wrong function changed by stimba
     void MacChange() {
         System.out.println("MAC CHANGE!!!");
     }
