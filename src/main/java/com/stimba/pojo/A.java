@@ -33,4 +33,7 @@ public class A {
     void mac() {
 //        mac
     }
+    void pc() {
+//        pc
+    }
 }
