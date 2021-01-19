@@ -24,4 +24,22 @@ public class A {
     void mactao() {
 //        mac foo
     }
+    void ob() {
+//        ob branch
+    }
+    void macnot() {
+//        machao
+    }
+    void abc() {
+//        abc
+    }
+    void mac() {
+//        mac
+        System.out.println("ob branch in time");
+        System.out.println("BBQ");
+        System.out.println("test");
+    }
+    void pc() {
+//        pc
+    }
 }
