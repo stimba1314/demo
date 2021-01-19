@@ -21,4 +21,7 @@ public class A {
     void change() {
 //        empty foo
     }
+    void mactao() {
+//        mac foo
+    }
 }
