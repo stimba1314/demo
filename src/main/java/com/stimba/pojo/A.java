@@ -12,4 +12,8 @@ public class A {
     void test() {
         System.out.println("test");
     }
+
+    void MacChange() {
+        System.out.println("MAC CHANGE!!!");
+    }
 }
