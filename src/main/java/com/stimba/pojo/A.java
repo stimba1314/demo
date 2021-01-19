@@ -37,5 +37,6 @@ public class A {
 //        mac
         System.out.println("ob branch in time");
         System.out.println("BBQ");
+        System.out.println("test");
     }
 }
