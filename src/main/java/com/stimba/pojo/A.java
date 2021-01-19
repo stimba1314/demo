@@ -24,4 +24,7 @@ public class A {
     void mactao() {
 //        mac foo
     }
+    void ob() {
+//        ob branch
+    }
 }
