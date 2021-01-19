@@ -27,4 +27,7 @@ public class A {
     void macnot() {
 //        machao
     }
+    void abc() {
+//        abc
+    }
 }
