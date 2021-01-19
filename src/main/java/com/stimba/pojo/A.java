@@ -8,4 +8,8 @@ public class A {
     void L2() {
         System.out.println("this is L2");
     }
+
+    void test() {
+        System.out.println("test");
+    }
 }
