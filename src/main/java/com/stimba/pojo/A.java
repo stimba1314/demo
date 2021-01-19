@@ -18,4 +18,7 @@ public class A {
     }
 
 //    mac left a comment here
+    void change() {
+//        empty foo
+    }
 }
