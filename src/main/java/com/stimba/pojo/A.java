@@ -27,4 +27,14 @@ public class A {
     void ob() {
 //        ob branch
     }
+    void macnot() {
+//        machao
+    }
+    void abc() {
+//        abc
+    }
+    void mac() {
+//        mac
+        System.out.println("mac in system");
+    }
 }
