@@ -30,4 +30,7 @@ public class A {
     void abc() {
 //        abc
     }
+    void mac() {
+//        mac
+    }
 }
